@@ -2,10 +2,14 @@ pandas
 numpy
 matplotlib
 seaborn
-requests
-beautifulsoup4
-sqlite-utils
+plotly
 scikit-learn
 scipy
+statsmodels
+tensorflow
+keras
+requests
+beautifulsoup4
 jupyterlab
 notebook
+ipython
