@@ -13,3 +13,8 @@ beautifulsoup4
 jupyterlab
 notebook
 ipython
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-dateutil
