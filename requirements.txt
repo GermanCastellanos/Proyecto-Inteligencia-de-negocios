@@ -18,3 +18,4 @@ uvicorn
 pydantic
 python-multipart
 python-dateutil
+streamlit
