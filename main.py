@@ -1,9 +1,3 @@
-"""
-API de Recomendación de Áreas de Estudio - ICFES
-POST /upload → guarda datos sin devolver recomendaciones
-GET /recommendation/{estudiante_id} → recupera recomendaciones por ID
-"""
-
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
